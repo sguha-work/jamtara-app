@@ -1,0 +1,14 @@
+{
+  "name": "go-test",
+  "version": "1.0.0",
+  "description": "Test go sls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aritri kDas",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "8.8.0"
+  }
+}

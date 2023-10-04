@@ -1,0 +1,37 @@
+{
+  "name": "auctions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "offline": "sls offline -s dev"
+  },
+  "keywords": [],
+  "author": "Aritrik Das",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/app-search-node": "^8.0.0",
+    "ajv": "^8.8.2",
+    "aws-sdk": "^2.880.0",
+    "body-parser": "^1.19.0",
+    "cognito-express": "^2.0.19",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.1.4",
+    "mongoose-patcher": "^0.2.15",
+    "nodemailer": "^6.7.8",
+    "pg": "^8.7.3",
+    "serverless-http": "^2.7.0",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^4.0.0",
+    "serverless-iam-roles-per-function": "^3.2.0",
+    "serverless-layers": "2.5.3",
+    "serverless-offline": "^6.9.0",
+    "serverless-plugin-reducer": "^4.0.0",
+    "serverless-pseudo-parameters": "^2.6.1"
+  }
+}

@@ -1,0 +1,57 @@
+# "This API Spec is for getting pre signed url Micro-service."
+endpoints:
+  # endpoint for user signup API
+  getPreSignedURL: 
+    summary: "Api to get presigned URL"
+    description: "Api to get presigned URL"
+    requestBody:
+      description: Payload structure to update a dealer informaton
+    requestModels:
+      application/json: "getPresignedURLRequestModel"
+    methodResponses:
+      - statusCode: 201
+        responseBody:
+          description: "A user object along with generated API Keys"
+        responseModels:
+          application/json: "getPresignedURLResponseModel"
+      
+      - statusCode: 400
+        responseBody:
+          description: "Response if data validation fails"
+        responseModels:
+          application/json: "400-dataValidationResp"
+
+documentation:
+  openapi: "3.0.1"
+  version: 1.0.0
+  title: Upload image API
+  description: This API Spec is for uploading image Micro-service.
+  servers:
+    - url: "http://localhost:3000/{basePath}/upload/get-presigned-url"
+      variables:
+        basePath:
+          default: "dev"
+  models:
+    - name: getPresignedURLRequestModel
+      description: "request model for getting pre signed url"
+      contentType: "application/json"
+      schema:
+        type: object
+        required:
+          - key
+          - folderPath
+        properties:
+          key:
+            type: string
+            example: filename.jpg
+          folderPath:
+            type: string
+            example: images
+    - name: getPresignedURLResponseModel
+      description: "response model for presigned url"
+      contentType: "application/json"
+      schema:
+        properties:
+          url:
+            type: string
+            example: 'https://domain.com'

@@ -1,0 +1,2 @@
+
+ALTER TABLE consumers ALTER COLUMN created_by TYPE STRING(30);

@@ -1,0 +1,1717 @@
+
+ MD00064  already exists in database
+{
+    "exists": true,
+    "data": {
+        "NAME": "\"BALDEV SAH",
+        "ADDRESS3": " VILL. MANDARDIH ",
+        "METER STATUS": "1",
+        "LOAD": "DS-1 (B) ",
+        "DIVISION": "Giridih South",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS4": "",
+        "isRejectedBySupervisor": "",
+        "TARIFF": "",
+        "MOBILE NO": "",
+        "isApprovedBySupervisor": "",
+        "CIRCLE": "Giridih",
+        "METER NUMBER": "Unmetered ",
+        "CONSUMER NO": "MD00064 ",
+        "METER MAKE": "",
+        "ADDRESS1": "S/O LT.BAIDU \"",
+        "ADDRESS2": "SAW",
+        "SUB DIVISION": "Giridih(R) ",
+        "AADHAR NO": "",
+        "createdOn": ""
+    }
+}
+ BSD0012  already exists in database
+{
+    "exists": true,
+    "data": {
+        "TARIFF": "DS-1 (B) ",
+        "SUB DIVISION": "Giridih(R) ",
+        "DIVISION": "Giridih South",
+        "AADHAR NO": "",
+        "isRejectedBySupervisor": "",
+        "LOAD": "1",
+        "ADDRESS1": "BISHWASDIH ",
+        "NAME": "SUJIT K SINGH ",
+        "ADDRESS4": "",
+        "METER MAKE": "",
+        "isApprovedBySupervisor": "",
+        "METER STATUS": "Unmetered ",
+        "ADDRESS2": "",
+        "createdOn": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS3": "",
+        "METER NUMBER": "",
+        "MOBILE NO": "",
+        "CONSUMER TYPE": "Other ",
+        "CONSUMER NO": "BSD0012 "
+    }
+}
+ MHU0071  already exists in database
+{
+    "exists": true,
+    "data": {
+        "NAME": "MURARI CHOUDHARI S/O LT. ",
+        "ADDRESS2": "",
+        "TARIFF": "DS-1 (B) ",
+        "isApprovedBySupervisor": "",
+        "METER MAKE": "",
+        "ADDRESS4": "",
+        "METER NUMBER": "",
+        "LOAD": "1",
+        "isRejectedBySupervisor": "",
+        "CONSUMER TYPE": "Other ",
+        "CONSUMER NO": "MHU0071 ",
+        "createdOn": "",
+        "ADDRESS3": "",
+        "CIRCLE": "Giridih",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS1": "JANKI PASI AT.MAHUAAR ",
+        "AADHAR NO": "",
+        "MOBILE NO": "",
+        "DIVISION": "Giridih South",
+        "METER STATUS": "Unmetered "
+    }
+}
+ MHU0037  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS2": "",
+        "AADHAR NO": "",
+        "DIVISION": "Giridih South",
+        "createdOn": "",
+        "isRejectedBySupervisor": "",
+        "TARIFF": "DS-1 (B) ",
+        "MOBILE NO": "",
+        "ADDRESS4": "",
+        "METER STATUS": "Unmetered ",
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS3": "",
+        "METER NUMBER": "",
+        "NAME": "CHETAN PASI S/O NUNU RAM ",
+        "CONSUMER NO": "MHU0037 ",
+        "METER MAKE": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS1": "AT.MOHAUR ",
+        "LOAD": "1",
+        "isApprovedBySupervisor": ""
+    }
+}
+ BGR0039  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS3": "CHARGHARA ",
+        "METER STATUS": "1",
+        "isApprovedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "NAME": "\"HARI MAHTO",
+        "TARIFF": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS4": "",
+        "ADDRESS2": "BANDGARI",
+        "isRejectedBySupervisor": "",
+        "METER NUMBER": "Unmetered ",
+        "LOAD": "DS-1 (B) ",
+        "CONSUMER TYPE": "Other ",
+        "createdOn": "",
+        "CONSUMER NO": "BGR0039 ",
+        "METER MAKE": "",
+        "MOBILE NO": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS1": "S/O RUNA MAHTO \"",
+        "AADHAR NO": ""
+    }
+}
+ BSD0001  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isRejectedBySupervisor": "",
+        "ADDRESS4": "",
+        "DIVISION": "Giridih South",
+        "AADHAR NO": "",
+        "ADDRESS3": "",
+        "ADDRESS1": "BISHWASDIH ",
+        "METER MAKE": "",
+        "CONSUMER TYPE": "Other ",
+        "METER STATUS": "Unmetered ",
+        "createdOn": "",
+        "ADDRESS2": "",
+        "TARIFF": "DS-1 (B) ",
+        "MOBILE NO": "",
+        "CONSUMER NO": "BSD0001 ",
+        "LOAD": "1",
+        "NAME": "SRI DIWAKAR PATHAK ",
+        "CIRCLE": "Giridih",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER NUMBER": "",
+        "isApprovedBySupervisor": ""
+    }
+}
+ BGR0028  already exists in database
+{
+    "exists": true,
+    "data": {
+        "CONSUMER NO": "BGR0028 ",
+        "LOAD": "DS-1 (B) ",
+        "ADDRESS1": "S/O PARYAG YADAV \"",
+        "MOBILE NO": "",
+        "isApprovedBySupervisor": "",
+        "isRejectedBySupervisor": "",
+        "ADDRESS3": "CHARGHARA ",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER NUMBER": "Unmetered ",
+        "AADHAR NO": "",
+        "TARIFF": "",
+        "createdOn": "",
+        "NAME": "\"PARKASH YADAV",
+        "METER STATUS": "1",
+        "ADDRESS2": "BANDGARI",
+        "METER MAKE": "",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS4": "",
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih"
+    }
+}
+ BGR0047  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS2": "M",
+        "CIRCLE": "Giridih",
+        "NAME": "\"MEGHLAL HAJAM",
+        "ADDRESS4": "CHARGHARA ",
+        "createdOn": "",
+        "METER MAKE": "",
+        "CONSUMER TYPE": "Other ",
+        "TARIFF": "",
+        "DIVISION": "Giridih South",
+        "METER NUMBER": "Unmetered ",
+        "isApprovedBySupervisor": "",
+        "MOBILE NO": "",
+        "CONSUMER NO": "BGR0047 ",
+        "ADDRESS3": "BANDGARI",
+        "SUB DIVISION": "Giridih(R) ",
+        "AADHAR NO": "",
+        "LOAD": "DS-1 (B) ",
+        "METER STATUS": "1",
+        "isRejectedBySupervisor": "",
+        "ADDRESS1": "S/O KHUBLAL HAJA \""
+    }
+}
+ MHU0041  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER STATUS": "Unmetered ",
+        "DIVISION": "Giridih South",
+        "METER MAKE": "",
+        "MOBILE NO": "",
+        "TARIFF": "DS-1 (B) ",
+        "createdOn": "",
+        "ADDRESS3": "",
+        "LOAD": "1",
+        "CONSUMER NO": "MHU0041 ",
+        "isRejectedBySupervisor": "",
+        "AADHAR NO": "",
+        "CONSUMER TYPE": "Other ",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS4": "",
+        "CIRCLE": "Giridih",
+        "NAME": "GAYARI DEVI W/O GOVIND MO ",
+        "ADDRESS2": "",
+        "METER NUMBER": "",
+        "ADDRESS1": "DI AT.MAHUAR ",
+        "isApprovedBySupervisor": ""
+    }
+}
+ BGR0071  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER NUMBER": "Unmetered ",
+        "createdOn": "",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "LOAD": "DS-1 (B) ",
+        "isApprovedBySupervisor": "",
+        "AADHAR NO": "",
+        "CONSUMER NO": "BGR0071 ",
+        "ADDRESS2": "BANDGARI",
+        "TARIFF": "",
+        "ADDRESS4": "",
+        "ADDRESS1": "S/O MURAT MAHTO \"",
+        "CONSUMER TYPE": "Other ",
+        "MOBILE NO": "",
+        "ADDRESS3": "CHARGHARA ",
+        "CIRCLE": "Giridih",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "1",
+        "SUB DIVISION": "Giridih(R) ",
+        "NAME": "\"DULAR MAHTO"
+    }
+}
+ BGR0033  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER MAKE": "",
+        "isRejectedBySupervisor": "",
+        "LOAD": "DS-1 (B) ",
+        "TARIFF": "",
+        "ADDRESS4": "CHARGHARA ",
+        "ADDRESS3": "BANDGARI",
+        "NAME": "\"CHETLAL MAHTO",
+        "ADDRESS2": "MAHTO",
+        "CIRCLE": "Giridih",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER STATUS": "1",
+        "MOBILE NO": "",
+        "METER NUMBER": "Unmetered ",
+        "createdOn": "",
+        "CONSUMER NO": "BGR0033 ",
+        "DIVISION": "Giridih South",
+        "AADHAR NO": "",
+        "ADDRESS1": "S/O GIRDHARI \"",
+        "isApprovedBySupervisor": "",
+        "CONSUMER TYPE": "Other "
+    }
+}
+ BGR0007  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isApprovedBySupervisor": "",
+        "NAME": "\"SHANKAR SINGH",
+        "isRejectedBySupervisor": "",
+        "ADDRESS1": "S/O DILO SINGH \"",
+        "AADHAR NO": "",
+        "ADDRESS4": "",
+        "createdOn": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER NO": "BGR0007 ",
+        "METER STATUS": "1",
+        "ADDRESS2": "BANDGARI",
+        "ADDRESS3": "CHARGHARA ",
+        "MOBILE NO": "",
+        "METER NUMBER": "Unmetered ",
+        "CIRCLE": "Giridih",
+        "CONSUMER TYPE": "Other ",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "TARIFF": "",
+        "LOAD": "DS-1 (B) "
+    }
+}
+ BGR0010  already exists in database
+{
+    "exists": true,
+    "data": {
+        "NAME": "\"TILAK SINGH",
+        "ADDRESS4": "",
+        "ADDRESS3": "CHARGHARA ",
+        "ADDRESS1": "S/O LT.KARU \"",
+        "TARIFF": "",
+        "isRejectedBySupervisor": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER MAKE": "",
+        "isApprovedBySupervisor": "",
+        "CIRCLE": "Giridih",
+        "LOAD": "DS-1 (B) ",
+        "AADHAR NO": "",
+        "METER NUMBER": "Unmetered ",
+        "createdOn": "",
+        "CONSUMER TYPE": "Other ",
+        "DIVISION": "Giridih South",
+        "ADDRESS2": "BANDGARI",
+        "CONSUMER NO": "BGR0010 ",
+        "METER STATUS": "1",
+        "MOBILE NO": ""
+    }
+}
+ MHU0007  already exists in database
+{
+    "exists": true,
+    "data": {
+        "SUB DIVISION": "Giridih(R) ",
+        "LOAD": "1",
+        "createdOn": "",
+        "CIRCLE": "Giridih",
+        "NAME": "DINESH THAKUR S/O JAILAL ",
+        "ADDRESS4": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS3": "",
+        "CONSUMER NO": "MHU0007 ",
+        "ADDRESS2": "",
+        "MOBILE NO": "",
+        "TARIFF": "DS-1 (B) ",
+        "isRejectedBySupervisor": "",
+        "METER MAKE": "",
+        "METER NUMBER": "",
+        "CONSUMER TYPE": "Other ",
+        "AADHAR NO": "",
+        "isApprovedBySupervisor": "",
+        "ADDRESS1": "THAKUR AT.MAHUWAR ",
+        "METER STATUS": "Unmetered "
+    }
+}
+ BGR0020  already exists in database
+{
+    "exists": true,
+    "data": {
+        "LOAD": "DS-1 (B) ",
+        "CIRCLE": "Giridih",
+        "MOBILE NO": "",
+        "ADDRESS4": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS1": "S/O BHUMA PANDIT \"",
+        "METER STATUS": "1",
+        "createdOn": "",
+        "DIVISION": "Giridih South",
+        "isApprovedBySupervisor": "",
+        "ADDRESS2": "BANDGARI",
+        "isRejectedBySupervisor": "",
+        "ADDRESS3": "CHARGHARA ",
+        "METER NUMBER": "Unmetered ",
+        "CONSUMER TYPE": "Other ",
+        "CONSUMER NO": "BGR0020 ",
+        "METER MAKE": "",
+        "NAME": "\"TULSI PANDIT",
+        "TARIFF": "",
+        "AADHAR NO": ""
+    }
+}
+ FKR0002  already exists in database
+{
+    "exists": true,
+    "data": {
+        "LOAD": "1",
+        "ADDRESS1": "S. SINGH AT. FITKORIA ",
+        "METER NUMBER": "",
+        "ADDRESS4": "",
+        "TARIFF": "DS-1 (B) ",
+        "AADHAR NO": "",
+        "MOBILE NO": "",
+        "isApprovedBySupervisor": "",
+        "isRejectedBySupervisor": "",
+        "CONSUMER TYPE": "Other ",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER MAKE": "",
+        "createdOn": "",
+        "METER STATUS": "Unmetered ",
+        "CONSUMER NO": "FKR0002 ",
+        "CIRCLE": "Giridih",
+        "NAME": "SRIKANT SINGH S/O RADHEY ",
+        "ADDRESS2": "",
+        "ADDRESS3": "",
+        "DIVISION": "Giridih South"
+    }
+}
+ BGR0019  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS1": "S/O LT.KARCK \"",
+        "METER NUMBER": "Unmetered ",
+        "ADDRESS3": "CHARGHARA ",
+        "CONSUMER TYPE": "Other ",
+        "TARIFF": "",
+        "METER MAKE": "",
+        "AADHAR NO": "",
+        "LOAD": "DS-1 (B) ",
+        "MOBILE NO": "",
+        "isApprovedBySupervisor": "",
+        "ADDRESS2": "BANDGARI",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "1",
+        "createdOn": "",
+        "NAME": "\"VIKHARI SINGH",
+        "ADDRESS4": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER NO": "BGR0019 ",
+        "CIRCLE": "Giridih",
+        "DIVISION": "Giridih South"
+    }
+}
+ HPD0014  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS3": "",
+        "ADDRESS1": "HARI AT.HARIPDDIH GANDEY ",
+        "ADDRESS2": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih",
+        "METER NUMBER": "",
+        "ADDRESS4": "",
+        "CONSUMER TYPE": "Other ",
+        "MOBILE NO": "",
+        "isRejectedBySupervisor": "",
+        "CONSUMER NO": "HPD0014 ",
+        "LOAD": "1",
+        "METER STATUS": "Unmetered ",
+        "TARIFF": "DS-1 (B) ",
+        "AADHAR NO": "",
+        "createdOn": "",
+        "NAME": "JAIRAJ HARI S/O LT.MANGAR ",
+        "isApprovedBySupervisor": ""
+    }
+}
+ BSD0022  already exists in database
+{
+    "exists": true,
+    "data": {
+        "LOAD": "1",
+        "createdOn": "",
+        "NAME": "HEM RAJ SAW S/O BAL DEO ",
+        "ADDRESS3": "",
+        "CONSUMER TYPE": "Other ",
+        "TARIFF": "DS-1 (B) ",
+        "MOBILE NO": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS1": "SAW AT. BISHUNDIH ",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER NUMBER": "",
+        "isRejectedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS2": "",
+        "ADDRESS4": "",
+        "AADHAR NO": "",
+        "CONSUMER NO": "BSD0022 ",
+        "METER MAKE": "",
+        "isApprovedBySupervisor": "",
+        "METER STATUS": "Unmetered "
+    }
+}
+ BGR0057  already exists in database
+{
+    "exists": true,
+    "data": {
+        "SUB DIVISION": "Giridih(R) ",
+        "isRejectedBySupervisor": "",
+        "NAME": "\"LUSI DEVI",
+        "METER STATUS": "1",
+        "ADDRESS3": "CHARGHARA ",
+        "MOBILE NO": "",
+        "createdOn": "",
+        "METER MAKE": "",
+        "isApprovedBySupervisor": "",
+        "LOAD": "DS-1 (B) ",
+        "DIVISION": "Giridih South",
+        "TARIFF": "",
+        "METER NUMBER": "Unmetered ",
+        "ADDRESS2": "BANDGARI",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS1": "W/O KATI MURMU \"",
+        "ADDRESS4": "",
+        "CIRCLE": "Giridih",
+        "AADHAR NO": "",
+        "CONSUMER NO": "BGR0057 "
+    }
+}
+ BGR0011  already exists in database
+{
+    "exists": true,
+    "data": {
+        "MOBILE NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER TYPE": "Other ",
+        "TARIFF": "",
+        "isApprovedBySupervisor": "",
+        "ADDRESS4": "CHARGHARA ",
+        "createdOn": "",
+        "CIRCLE": "Giridih",
+        "CONSUMER NO": "BGR0011 ",
+        "LOAD": "DS-1 (B) ",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "isRejectedBySupervisor": "",
+        "ADDRESS2": "GH",
+        "ADDRESS3": "BANDGARI",
+        "NAME": "\"HIRAMAN SINGH",
+        "AADHAR NO": "",
+        "METER NUMBER": "Unmetered ",
+        "ADDRESS1": "S/O LT.SUKAR SIN \"",
+        "METER STATUS": "1"
+    }
+}
+ MHU0011  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS3": "",
+        "ADDRESS2": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "isApprovedBySupervisor": "",
+        "LOAD": "1",
+        "CONSUMER NO": "MHU0011 ",
+        "createdOn": "",
+        "AADHAR NO": "",
+        "METER STATUS": "Unmetered ",
+        "METER MAKE": "",
+        "MOBILE NO": "",
+        "DIVISION": "Giridih South",
+        "TARIFF": "DS-1 (B) ",
+        "ADDRESS4": "",
+        "isRejectedBySupervisor": "",
+        "CIRCLE": "Giridih",
+        "NAME": "PANCHU HAZAM S/O LT.HURO ",
+        "CONSUMER TYPE": "Other ",
+        "METER NUMBER": "",
+        "ADDRESS1": "HAZAM AT.MAHUWAR "
+    }
+}
+ BGR0070  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER MAKE": "",
+        "isRejectedBySupervisor": "",
+        "createdOn": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "AADHAR NO": "",
+        "ADDRESS3": "CHARGHARA ",
+        "MOBILE NO": "",
+        "CIRCLE": "Giridih",
+        "METER NUMBER": "Unmetered ",
+        "DIVISION": "Giridih South",
+        "ADDRESS2": "BANDGARI",
+        "TARIFF": "",
+        "LOAD": "DS-1 (B) ",
+        "NAME": "\"HARI MAHTO",
+        "ADDRESS1": "S/O THAMBHI MAHTO \"",
+        "CONSUMER TYPE": "Other ",
+        "METER STATUS": "1",
+        "ADDRESS4": "",
+        "isApprovedBySupervisor": "",
+        "CONSUMER NO": "BGR0070 "
+    }
+}
+ BK00159  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isRejectedBySupervisor": "",
+        "TARIFF": "DS-1 (B) ",
+        "createdOn": "",
+        "MOBILE NO": "",
+        "isApprovedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih",
+        "NAME": "GULABCHAND SAW S/O HIRAMA ",
+        "AADHAR NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER STATUS": "Unmetered ",
+        "METER MAKE": "",
+        "ADDRESS3": "",
+        "CONSUMER NO": "BK00159 ",
+        "METER NUMBER": "",
+        "ADDRESS2": "",
+        "LOAD": "1",
+        "ADDRESS4": "",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS1": "N SAW AT.BANDERKUPPI "
+    }
+}
+ MD00055  already exists in database
+{
+    "exists": true,
+    "data": {
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER TYPE": "Other ",
+        "isRejectedBySupervisor": "",
+        "CONSUMER NO": "MD00055 ",
+        "LOAD": "DS-1 (B) ",
+        "ADDRESS4": "",
+        "isApprovedBySupervisor": "",
+        "ADDRESS1": "S/O LT. \"",
+        "MOBILE NO": "",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS3": "AT.MANDRADIH ",
+        "TARIFF": "",
+        "CIRCLE": "Giridih",
+        "METER NUMBER": "Unmetered ",
+        "METER STATUS": "1",
+        "AADHAR NO": "",
+        "NAME": "\"SIDHESHWAR TIWARI",
+        "createdOn": "",
+        "ADDRESS2": "BADRI TIWARI"
+    }
+}
+ MD00084  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS3": "",
+        "ADDRESS4": "",
+        "METER STATUS": "Unmetered ",
+        "createdOn": "",
+        "METER MAKE": "",
+        "MOBILE NO": "",
+        "AADHAR NO": "",
+        "CONSUMER TYPE": "Other ",
+        "SUB DIVISION": "Giridih(R) ",
+        "LOAD": "1",
+        "METER NUMBER": "",
+        "CIRCLE": "Giridih",
+        "TARIFF": "DS-1 (B) ",
+        "ADDRESS1": "SALANDAR TIWARI AT.MANDARDIH ",
+        "CONSUMER NO": "MD00084 ",
+        "DIVISION": "Giridih South",
+        "NAME": "VIRANDRA TIWARI S/O ",
+        "ADDRESS2": "",
+        "isRejectedBySupervisor": "",
+        "isApprovedBySupervisor": ""
+    }
+}
+ MD00076  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isRejectedBySupervisor": "",
+        "ADDRESS4": "",
+        "CONSUMER TYPE": "Other ",
+        "TARIFF": "DS-1 (B) ",
+        "MOBILE NO": "",
+        "DIVISION": "Giridih South",
+        "createdOn": "",
+        "LOAD": "1",
+        "METER MAKE": "",
+        "CIRCLE": "Giridih",
+        "CONSUMER NO": "MD00076 ",
+        "ADDRESS2": "",
+        "METER NUMBER": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "NAME": "KEDAR RAM S/O BAIJNATH ",
+        "ADDRESS1": "MODI AT.CHAPUWADIH ",
+        "METER STATUS": "Unmetered ",
+        "isApprovedBySupervisor": "",
+        "ADDRESS3": "",
+        "AADHAR NO": ""
+    }
+}
+ BSD0017  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isRejectedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "METER NUMBER": "Unmetered ",
+        "ADDRESS2": "CHHATRADHARI SAW",
+        "MOBILE NO": "",
+        "ADDRESS4": "",
+        "LOAD": "DS-1 (B) ",
+        "METER STATUS": "1",
+        "AADHAR NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "isApprovedBySupervisor": "",
+        "createdOn": "",
+        "NAME": "\"SMT.DHANESHWAR DEVI",
+        "CONSUMER NO": "BSD0017 ",
+        "ADDRESS3": "BISWASDIH ",
+        "TARIFF": "",
+        "CONSUMER TYPE": "Other ",
+        "CIRCLE": "Giridih",
+        "ADDRESS1": "W/O \"",
+        "METER MAKE": ""
+    }
+}
+ BSD0003  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER NUMBER": "",
+        "TARIFF": "DS-1 (B) ",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS4": "",
+        "createdOn": "",
+        "isRejectedBySupervisor": "",
+        "ADDRESS3": "",
+        "DIVISION": "Giridih South",
+        "NAME": "SRI MEGH LAL ",
+        "MOBILE NO": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS2": "",
+        "CONSUMER NO": "BSD0003 ",
+        "isApprovedBySupervisor": "",
+        "LOAD": "1",
+        "METER STATUS": "Unmetered ",
+        "ADDRESS1": "BISHWASDIH ",
+        "AADHAR NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER MAKE": ""
+    }
+}
+ MHU0063  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER MAKE": "",
+        "ADDRESS2": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS1": "MODI AT.MAHUWAR ",
+        "createdOn": "",
+        "ADDRESS4": "",
+        "TARIFF": "DS-1 (B) ",
+        "MOBILE NO": "",
+        "CIRCLE": "Giridih",
+        "NAME": "UMESH MODI S/O BHUNESHWAR ",
+        "CONSUMER NO": "MHU0063 ",
+        "isApprovedBySupervisor": "",
+        "LOAD": "1",
+        "METER STATUS": "Unmetered ",
+        "isRejectedBySupervisor": "",
+        "CONSUMER TYPE": "Other ",
+        "AADHAR NO": "",
+        "METER NUMBER": "",
+        "ADDRESS3": "",
+        "SUB DIVISION": "Giridih(R) "
+    }
+}
+ BSD0002  already exists in database
+{
+    "exists": true,
+    "data": {
+        "TARIFF": "DS-1 (B) ",
+        "LOAD": "1",
+        "createdOn": "",
+        "ADDRESS4": "",
+        "CONSUMER NO": "BSD0002 ",
+        "METER NUMBER": "",
+        "ADDRESS2": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS3": "",
+        "isRejectedBySupervisor": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER STATUS": "Unmetered ",
+        "NAME": "SRI DAYAL SAH ",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS1": "BISHWASDIH ",
+        "MOBILE NO": "",
+        "METER MAKE": "",
+        "AADHAR NO": "",
+        "isApprovedBySupervisor": "",
+        "DIVISION": "Giridih South"
+    }
+}
+ BGR0014  already exists in database
+{
+    "exists": true,
+    "data": {
+        "CIRCLE": "Giridih",
+        "AADHAR NO": "",
+        "MOBILE NO": "",
+        "TARIFF": "",
+        "LOAD": "DS-1 (B) ",
+        "DIVISION": "Giridih South",
+        "CONSUMER TYPE": "Other ",
+        "METER STATUS": "1",
+        "METER MAKE": "",
+        "ADDRESS3": "CHARGHARA ",
+        "ADDRESS1": "W/O LT.EKRAK \"",
+        "createdOn": "",
+        "ADDRESS4": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "NAME": "\"SHAKUNTLA",
+        "ADDRESS2": "BANDGARI",
+        "METER NUMBER": "Unmetered ",
+        "CONSUMER NO": "BGR0014 ",
+        "isRejectedBySupervisor": "",
+        "isApprovedBySupervisor": ""
+    }
+}
+ BGR0062  already exists in database
+{
+    "exists": true,
+    "data": {
+        "CIRCLE": "Giridih",
+        "TARIFF": "",
+        "MOBILE NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER STATUS": "1",
+        "isRejectedBySupervisor": "",
+        "ADDRESS1": "S/O GHANSHYAM \"",
+        "METER NUMBER": "Unmetered ",
+        "CONSUMER NO": "BGR0062 ",
+        "LOAD": "DS-1 (B) ",
+        "createdOn": "",
+        "ADDRESS2": "SINGH",
+        "NAME": "\"CHOTAN SINGH",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS3": "BANDGARI",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "AADHAR NO": "",
+        "ADDRESS4": "CHARGHARA ",
+        "isApprovedBySupervisor": ""
+    }
+}
+ BGR0056  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS3": "CHARGHARA ",
+        "METER NUMBER": "Unmetered ",
+        "CONSUMER NO": "BGR0056 ",
+        "createdOn": "",
+        "LOAD": "DS-1 (B) ",
+        "NAME": "\"MANOJ MURMU",
+        "ADDRESS4": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS2": "BANDGARI",
+        "MOBILE NO": "",
+        "CIRCLE": "Giridih",
+        "TARIFF": "",
+        "ADDRESS1": "S/O \"",
+        "isApprovedBySupervisor": "",
+        "METER STATUS": "1",
+        "METER MAKE": "",
+        "isRejectedBySupervisor": "",
+        "CONSUMER TYPE": "Other ",
+        "SUB DIVISION": "Giridih(R) ",
+        "AADHAR NO": ""
+    }
+}
+ BGR0066  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS3": "CHARGHARA ",
+        "CONSUMER TYPE": "Other ",
+        "isApprovedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS1": "S/O M.SINGH \"",
+        "METER STATUS": "1",
+        "TARIFF": "",
+        "MOBILE NO": "",
+        "NAME": "\"RAJ KISHOR SINGH",
+        "SUB DIVISION": "Giridih(R) ",
+        "isRejectedBySupervisor": "",
+        "ADDRESS2": "BANDGARI",
+        "CIRCLE": "Giridih",
+        "LOAD": "DS-1 (B) ",
+        "METER MAKE": "",
+        "CONSUMER NO": "BGR0066 ",
+        "ADDRESS4": "",
+        "createdOn": "",
+        "METER NUMBER": "Unmetered ",
+        "AADHAR NO": ""
+    }
+}
+ BGR0067  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER NUMBER": "Unmetered ",
+        "ADDRESS3": "CHARGHARA ",
+        "CONSUMER NO": "BGR0067 ",
+        "ADDRESS4": "",
+        "METER STATUS": "1",
+        "TARIFF": "",
+        "isApprovedBySupervisor": "",
+        "ADDRESS1": "S/O TIRBHUWAN SINGH \"",
+        "createdOn": "",
+        "LOAD": "DS-1 (B) ",
+        "SUB DIVISION": "Giridih(R) ",
+        "NAME": "\"GAJO SINGH",
+        "MOBILE NO": "",
+        "CONSUMER TYPE": "Other ",
+        "METER MAKE": "",
+        "ADDRESS2": "BANDGARI",
+        "AADHAR NO": "",
+        "CIRCLE": "Giridih",
+        "DIVISION": "Giridih South",
+        "isRejectedBySupervisor": ""
+    }
+}
+ BGR0063  already exists in database
+{
+    "exists": true,
+    "data": {
+        "CIRCLE": "Giridih",
+        "METER MAKE": "",
+        "NAME": "\"DULAR SINGH",
+        "ADDRESS3": "CHARGHARA ",
+        "AADHAR NO": "",
+        "ADDRESS4": "",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS1": "S/O JIGPUR SINGH \"",
+        "TARIFF": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "isApprovedBySupervisor": "",
+        "createdOn": "",
+        "METER NUMBER": "Unmetered ",
+        "MOBILE NO": "",
+        "DIVISION": "Giridih South",
+        "CONSUMER NO": "BGR0063 ",
+        "ADDRESS2": "BANDGARI",
+        "METER STATUS": "1",
+        "isRejectedBySupervisor": "",
+        "LOAD": "DS-1 (B) "
+    }
+}
+ BGR0003  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isApprovedBySupervisor": "",
+        "LOAD": "DS-1 (B) ",
+        "CONSUMER TYPE": "Other ",
+        "isRejectedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS2": "BANDGARI",
+        "METER STATUS": "1",
+        "TARIFF": "",
+        "METER MAKE": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER NO": "BGR0003 ",
+        "ADDRESS4": "",
+        "createdOn": "",
+        "METER NUMBER": "Unmetered ",
+        "ADDRESS3": "CHARGHARA ",
+        "ADDRESS1": "S/O LT.DULO SINGH \"",
+        "AADHAR NO": "",
+        "CIRCLE": "Giridih",
+        "MOBILE NO": "",
+        "NAME": "\"UMA SINGH"
+    }
+}
+ JP00004  already exists in database
+{
+    "exists": true,
+    "data": {
+        "CONSUMER NO": "JP00004 ",
+        "NAME": "MD. KURBAN MIYAN ",
+        "ADDRESS3": "",
+        "MOBILE NO": "",
+        "createdOn": "",
+        "ADDRESS4": "",
+        "isApprovedBySupervisor": "",
+        "AADHAR NO": "",
+        "ADDRESS1": "JITPUR ",
+        "METER NUMBER": "",
+        "CIRCLE": "Giridih",
+        "METER STATUS": "Unmetered ",
+        "SUB DIVISION": "Giridih(R) ",
+        "DIVISION": "Giridih South",
+        "isRejectedBySupervisor": "",
+        "METER MAKE": "",
+        "ADDRESS2": "",
+        "LOAD": "1",
+        "TARIFF": "DS-1 (B) ",
+        "CONSUMER TYPE": "Other "
+    }
+}
+ BSD0023  already exists in database
+{
+    "exists": true,
+    "data": {
+        "DIVISION": "Giridih South",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS4": "",
+        "isRejectedBySupervisor": "",
+        "METER NUMBER": "",
+        "createdOn": "",
+        "CIRCLE": "Giridih",
+        "AADHAR NO": "",
+        "isApprovedBySupervisor": "",
+        "ADDRESS1": "AT. BISHWUSDIH ",
+        "NAME": "KASHI SAW S/O G.S. SAW ",
+        "METER STATUS": "Unmetered ",
+        "ADDRESS2": "",
+        "CONSUMER TYPE": "Other ",
+        "METER MAKE": "",
+        "TARIFF": "DS-1 (B) ",
+        "LOAD": "1",
+        "ADDRESS3": "",
+        "MOBILE NO": "",
+        "CONSUMER NO": "BSD0023 "
+    }
+}
+ BGR0005  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isApprovedBySupervisor": "",
+        "METER MAKE": "",
+        "createdOn": "",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS4": "",
+        "ADDRESS2": "BANDGARI",
+        "METER NUMBER": "Unmetered ",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS3": "CHARGHARA ",
+        "NAME": "\"MUKESH SINGH",
+        "CIRCLE": "Giridih",
+        "CONSUMER NO": "BGR0005 ",
+        "DIVISION": "Giridih South",
+        "LOAD": "DS-1 (B) ",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "1",
+        "TARIFF": "",
+        "MOBILE NO": "",
+        "ADDRESS1": "S/O NAKUL SINGH \"",
+        "AADHAR NO": ""
+    }
+}
+ BGR0017  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS2": "BANDGARI",
+        "NAME": "\"SHYAM SUNDAR SINGH",
+        "CONSUMER NO": "BGR0017 ",
+        "LOAD": "DS-1 (B) ",
+        "isRejectedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "METER STATUS": "1",
+        "isApprovedBySupervisor": "",
+        "ADDRESS1": "S/O M.SINGH \"",
+        "CONSUMER TYPE": "Other ",
+        "METER MAKE": "",
+        "TARIFF": "",
+        "ADDRESS4": "",
+        "METER NUMBER": "Unmetered ",
+        "AADHAR NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS3": "CHARGHARA ",
+        "createdOn": "",
+        "CIRCLE": "Giridih",
+        "MOBILE NO": ""
+    }
+}
+ BGR0049  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS4": "",
+        "ADDRESS3": "CHARGHARA ",
+        "ADDRESS1": "S/O SONA MAHTO \"",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS2": "BANDGARI",
+        "isApprovedBySupervisor": "",
+        "NAME": "\"NARESH YADAV",
+        "TARIFF": "",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "1",
+        "createdOn": "",
+        "LOAD": "DS-1 (B) ",
+        "METER NUMBER": "Unmetered ",
+        "CIRCLE": "Giridih",
+        "CONSUMER NO": "BGR0049 ",
+        "SUB DIVISION": "Giridih(R) ",
+        "MOBILE NO": "",
+        "AADHAR NO": ""
+    }
+}
+ BGR0054  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER NUMBER": "",
+        "createdOn": "",
+        "LOAD": "1",
+        "CONSUMER NO": "BGR0054 ",
+        "ADDRESS3": "",
+        "ADDRESS1": "BANDGARI",
+        "ADDRESS2": "CHARGHARA ",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER MAKE": "",
+        "NAME": "KARMEN SINGH ",
+        "ADDRESS4": "",
+        "isApprovedBySupervisor": "",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "Unmetered ",
+        "DIVISION": "Giridih South",
+        "MOBILE NO": "",
+        "TARIFF": "DS-1 (B) ",
+        "CONSUMER TYPE": "Other ",
+        "CIRCLE": "Giridih",
+        "AADHAR NO": ""
+    }
+}
+ BGR0034  already exists in database
+{
+    "exists": true,
+    "data": {
+        "NAME": "\"RAMESH MAHTO",
+        "CONSUMER NO": "BGR0034 ",
+        "MOBILE NO": "",
+        "ADDRESS1": "S/O KIRET MAHTO \"",
+        "isRejectedBySupervisor": "",
+        "ADDRESS4": "",
+        "LOAD": "DS-1 (B) ",
+        "createdOn": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "isApprovedBySupervisor": "",
+        "CONSUMER TYPE": "Other ",
+        "DIVISION": "Giridih South",
+        "ADDRESS2": "BANDGARI",
+        "CIRCLE": "Giridih",
+        "ADDRESS3": "CHARGHARA ",
+        "TARIFF": "",
+        "AADHAR NO": "",
+        "METER NUMBER": "Unmetered ",
+        "METER MAKE": "",
+        "METER STATUS": "1"
+    }
+}
+ TL05226  already exists in database
+{
+    "exists": true,
+    "data": {
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih",
+        "isApprovedBySupervisor": "",
+        "TARIFF": "DS-1 (B) ",
+        "ADDRESS2": "GRD ",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS4": "",
+        "METER STATUS": "Unmetered ",
+        "AADHAR NO": "",
+        "MOBILE NO": "",
+        "METER MAKE": "",
+        "ADDRESS3": "",
+        "CONSUMER NO": "TL05226 ",
+        "METER NUMBER": "",
+        "NAME": "MATRUN NISHA W/O NAJEERUDDIN ",
+        "isRejectedBySupervisor": "",
+        "LOAD": "1",
+        "SUB DIVISION": "Giridih(R) ",
+        "createdOn": "",
+        "ADDRESS1": "TELODIH"
+    }
+}
+ BGR0018  already exists in database
+{
+    "exists": true,
+    "data": {
+        "AADHAR NO": "",
+        "TARIFF": "",
+        "CONSUMER NO": "BGR0018 ",
+        "MOBILE NO": "",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "1",
+        "ADDRESS2": "BANDGARI",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS1": "S/O LT.KARCK \"",
+        "ADDRESS4": "",
+        "createdOn": "",
+        "DIVISION": "Giridih South",
+        "METER NUMBER": "Unmetered ",
+        "METER MAKE": "",
+        "ADDRESS3": "CHARGHARA ",
+        "NAME": "\"PAWAN SINGH",
+        "isApprovedBySupervisor": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "CIRCLE": "Giridih",
+        "LOAD": "DS-1 (B) "
+    }
+}
+ MHU0070  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS2": "",
+        "MOBILE NO": "",
+        "DIVISION": "Giridih South",
+        "LOAD": "1",
+        "CIRCLE": "Giridih",
+        "AADHAR NO": "",
+        "ADDRESS4": "",
+        "isRejectedBySupervisor": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER MAKE": "",
+        "METER STATUS": "Unmetered ",
+        "isApprovedBySupervisor": "",
+        "TARIFF": "DS-1 (B) ",
+        "ADDRESS3": "",
+        "createdOn": "",
+        "METER NUMBER": "",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS1": "PASI AT.MAHUAAR ",
+        "NAME": "GANGRI DEVI W/O KOLHA ",
+        "CONSUMER NO": "MHU0070 "
+    }
+}
+ BGR0016  already exists in database
+{
+    "exists": true,
+    "data": {
+        "SUB DIVISION": "Giridih(R) ",
+        "CIRCLE": "Giridih",
+        "isApprovedBySupervisor": "",
+        "ADDRESS3": "CHARGHARA ",
+        "ADDRESS1": "S/O \"",
+        "MOBILE NO": "",
+        "createdOn": "",
+        "isRejectedBySupervisor": "",
+        "ADDRESS2": "BANDGARI",
+        "METER NUMBER": "Unmetered ",
+        "LOAD": "DS-1 (B) ",
+        "TARIFF": "",
+        "METER MAKE": "",
+        "METER STATUS": "1",
+        "AADHAR NO": "",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS4": "",
+        "DIVISION": "Giridih South",
+        "CONSUMER NO": "BGR0016 ",
+        "NAME": "\"PHODARI SINGH"
+    }
+}
+ BGR0022  already exists in database
+{
+    "exists": true,
+    "data": {
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS2": "BANDGARI",
+        "MOBILE NO": "",
+        "METER STATUS": "1",
+        "ADDRESS3": "CHARGHARA ",
+        "CONSUMER NO": "BGR0022 ",
+        "createdOn": "",
+        "isRejectedBySupervisor": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS1": "S/O LT.J.SINGH \"",
+        "ADDRESS4": "",
+        "METER NUMBER": "Unmetered ",
+        "NAME": "\"SITARAM SINGH",
+        "isApprovedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "TARIFF": "",
+        "AADHAR NO": "",
+        "LOAD": "DS-1 (B) ",
+        "METER MAKE": "",
+        "CONSUMER TYPE": "Other "
+    }
+}
+ BGR0006  already exists in database
+{
+    "exists": true,
+    "data": {
+        "AADHAR NO": "",
+        "isApprovedBySupervisor": "",
+        "CIRCLE": "Giridih",
+        "ADDRESS2": "BANDGARI",
+        "isRejectedBySupervisor": "",
+        "NAME": "\"RAMA DEVI",
+        "ADDRESS1": "W/O DARA SINGH \"",
+        "METER MAKE": "",
+        "TARIFF": "",
+        "ADDRESS4": "",
+        "createdOn": "",
+        "METER NUMBER": "Unmetered ",
+        "MOBILE NO": "",
+        "CONSUMER NO": "BGR0006 ",
+        "ADDRESS3": "CHARGHARA ",
+        "CONSUMER TYPE": "Other ",
+        "METER STATUS": "1",
+        "LOAD": "DS-1 (B) ",
+        "SUB DIVISION": "Giridih(R) ",
+        "DIVISION": "Giridih South"
+    }
+}
+ BSD0015  already exists in database
+{
+    "exists": true,
+    "data": {
+        "MOBILE NO": "",
+        "METER MAKE": "",
+        "ADDRESS1": "BISHWASHDIH",
+        "ADDRESS3": "GIRIDIH ",
+        "METER STATUS": "Unmetered ",
+        "createdOn": "",
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih",
+        "isApprovedBySupervisor": "",
+        "CONSUMER NO": "BSD0015 ",
+        "NAME": "GYANI SAW ",
+        "CONSUMER TYPE": "Other ",
+        "AADHAR NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS4": "",
+        "ADDRESS2": "UDNABAD",
+        "isRejectedBySupervisor": "",
+        "LOAD": "1",
+        "TARIFF": "DS-1 (B) ",
+        "METER NUMBER": ""
+    }
+}
+ MD00086  already exists in database
+{
+    "exists": true,
+    "data": {
+        "AADHAR NO": "",
+        "createdOn": "",
+        "METER STATUS": "Unmetered ",
+        "CIRCLE": "Giridih",
+        "ADDRESS4": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "MOBILE NO": "",
+        "METER MAKE": "",
+        "CONSUMER NO": "MD00086 ",
+        "ADDRESS1": "SAH AT.MANDARDIH ",
+        "isApprovedBySupervisor": "",
+        "NAME": "JAGDISH SAH S/O BISWANATH ",
+        "isRejectedBySupervisor": "",
+        "METER NUMBER": "",
+        "TARIFF": "DS-1 (B) ",
+        "LOAD": "1",
+        "ADDRESS2": "",
+        "ADDRESS3": "",
+        "CONSUMER TYPE": "Other ",
+        "DIVISION": "Giridih South"
+    }
+}
+ BGR0053  already exists in database
+{
+    "exists": true,
+    "data": {
+        "DIVISION": "Giridih South",
+        "ADDRESS2": "BANDGARI",
+        "createdOn": "",
+        "isRejectedBySupervisor": "",
+        "ADDRESS1": "S/O \"",
+        "ADDRESS4": "",
+        "TARIFF": "",
+        "LOAD": "DS-1 (B) ",
+        "NAME": "\"BHONU SINGH",
+        "isApprovedBySupervisor": "",
+        "MOBILE NO": "",
+        "CIRCLE": "Giridih",
+        "AADHAR NO": "",
+        "METER NUMBER": "Unmetered ",
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER NO": "BGR0053 ",
+        "METER STATUS": "1",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS3": "CHARGHARA ",
+        "METER MAKE": ""
+    }
+}
+ MD00049  already exists in database
+{
+    "exists": true,
+    "data": {
+        "DIVISION": "Giridih South",
+        "ADDRESS3": "",
+        "createdOn": "",
+        "ADDRESS1": "AT.MANDRADIH ",
+        "ADDRESS2": "",
+        "CONSUMER NO": "MD00049 ",
+        "MOBILE NO": "",
+        "CONSUMER TYPE": "Other ",
+        "isApprovedBySupervisor": "",
+        "LOAD": "1",
+        "ADDRESS4": "",
+        "METER NUMBER": "",
+        "CIRCLE": "Giridih",
+        "AADHAR NO": "",
+        "NAME": "RAGESH KUMAR AGARWALLA ",
+        "TARIFF": "DS-1 (B) ",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "Unmetered ",
+        "METER MAKE": "",
+        "SUB DIVISION": "Giridih(R) "
+    }
+}
+ BGR0044  already exists in database
+{
+    "exists": true,
+    "data": {
+        "AADHAR NO": "",
+        "ADDRESS4": "",
+        "isApprovedBySupervisor": "",
+        "METER MAKE": "",
+        "isRejectedBySupervisor": "",
+        "MOBILE NO": "",
+        "LOAD": "DS-1 (B) ",
+        "DIVISION": "Giridih South",
+        "NAME": "\"SHANTI DEVI",
+        "CIRCLE": "Giridih",
+        "CONSUMER NO": "BGR0044 ",
+        "ADDRESS2": "BANDGARI",
+        "ADDRESS3": "CHARGHARA ",
+        "TARIFF": "",
+        "METER STATUS": "1",
+        "ADDRESS1": "W/O BHOLA MAHTO \"",
+        "CONSUMER TYPE": "Other ",
+        "SUB DIVISION": "Giridih(R) ",
+        "METER NUMBER": "Unmetered ",
+        "createdOn": ""
+    }
+}
+ BGR0029  already exists in database
+{
+    "exists": true,
+    "data": {
+        "SUB DIVISION": "Giridih(R) ",
+        "CIRCLE": "Giridih",
+        "ADDRESS4": "CHARGHARA ",
+        "isApprovedBySupervisor": "",
+        "AADHAR NO": "",
+        "NAME": "\"TUPALI SINGH",
+        "METER NUMBER": "Unmetered ",
+        "MOBILE NO": "",
+        "LOAD": "DS-1 (B) ",
+        "METER STATUS": "1",
+        "ADDRESS3": "BANDGARI",
+        "TARIFF": "",
+        "CONSUMER NO": "BGR0029 ",
+        "DIVISION": "Giridih South",
+        "ADDRESS1": "S/O LT.RADHEY \"",
+        "isRejectedBySupervisor": "",
+        "ADDRESS2": "SINGH",
+        "METER MAKE": "",
+        "CONSUMER TYPE": "Other ",
+        "createdOn": ""
+    }
+}
+ MD00058  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER NUMBER": "Unmetered ",
+        "isRejectedBySupervisor": "",
+        "TARIFF": "",
+        "ADDRESS4": "PO.CHAPUWADIH ",
+        "ADDRESS2": "SAH",
+        "ADDRESS1": "S/O RUP CHAND \"",
+        "createdOn": "",
+        "METER STATUS": "1",
+        "METER MAKE": "",
+        "CIRCLE": "Giridih",
+        "LOAD": "DS-1 (B) ",
+        "CONSUMER NO": "MD00058 ",
+        "DIVISION": "Giridih South",
+        "MOBILE NO": "",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS3": "AT.MANDRADIH",
+        "AADHAR NO": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "isApprovedBySupervisor": "",
+        "NAME": "\"RAM PD.SAH"
+    }
+}
+ BGR0050  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isRejectedBySupervisor": "",
+        "CONSUMER NO": "BGR0050 ",
+        "AADHAR NO": "",
+        "TARIFF": "",
+        "LOAD": "DS-1 (B) ",
+        "MOBILE NO": "",
+        "ADDRESS3": "CHARGHARA ",
+        "ADDRESS4": "",
+        "METER NUMBER": "Unmetered ",
+        "ADDRESS2": "BANDGARI",
+        "NAME": "\"PURAN SINGH",
+        "CIRCLE": "Giridih",
+        "SUB DIVISION": "Giridih(R) ",
+        "CONSUMER TYPE": "Other ",
+        "createdOn": "",
+        "DIVISION": "Giridih South",
+        "METER STATUS": "1",
+        "ADDRESS1": "S/O NUNU SINGH \"",
+        "METER MAKE": "",
+        "isApprovedBySupervisor": ""
+    }
+}
+ BSD0010  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS1": "MISHRA",
+        "isApprovedBySupervisor": "",
+        "AADHAR NO": "",
+        "CONSUMER TYPE": "Other ",
+        "METER STATUS": "Unmetered ",
+        "DIVISION": "Giridih South",
+        "MOBILE NO": "",
+        "ADDRESS3": "",
+        "METER MAKE": "",
+        "CONSUMER NO": "BSD0010 ",
+        "CIRCLE": "Giridih",
+        "METER NUMBER": "",
+        "isRejectedBySupervisor": "",
+        "ADDRESS2": " METHADIH ",
+        "SUB DIVISION": "Giridih(R) ",
+        "LOAD": "1",
+        "ADDRESS4": "",
+        "createdOn": "",
+        "NAME": "BHASKAR MISHRA S/O K.P.MISHRA ",
+        "TARIFF": "DS-1 (B) "
+    }
+}
+ BAG0001  already exists in database
+{
+    "exists": true,
+    "data": {
+        "LOAD": "1",
+        "CONSUMER TYPE": "Other ",
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih",
+        "createdOn": "",
+        "MOBILE NO": "",
+        "CONSUMER NO": "BAG0001 ",
+        "ADDRESS1": "AT.BAGJOBRA ",
+        "ADDRESS3": "",
+        "ADDRESS2": "",
+        "NAME": "RAM PD.DAS S/O LT.B.DAS ",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS4": "",
+        "isRejectedBySupervisor": "",
+        "AADHAR NO": "",
+        "METER MAKE": "",
+        "isApprovedBySupervisor": "",
+        "METER NUMBER": "",
+        "METER STATUS": "Unmetered ",
+        "TARIFF": "DS-1 (B) "
+    }
+}
+ MAD0001  already exists in database
+{
+    "exists": true,
+    "data": {
+        "AADHAR NO": "",
+        "ADDRESS2": "AT.MADHWADIH ",
+        "MOBILE NO": "",
+        "isRejectedBySupervisor": "",
+        "CONSUMER NO": "MAD0001 ",
+        "METER MAKE": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "createdOn": "",
+        "ADDRESS3": "",
+        "CIRCLE": "Giridih",
+        "NAME": "HURO MAHTO S/O LT.JHSRI ",
+        "METER NUMBER": "",
+        "TARIFF": "DS-1 (B) ",
+        "isApprovedBySupervisor": "",
+        "DIVISION": "Giridih South",
+        "ADDRESS4": "",
+        "ADDRESS1": "MAHTO",
+        "CONSUMER TYPE": "Other ",
+        "LOAD": "1",
+        "METER STATUS": "Unmetered "
+    }
+}
+ BGR0012  already exists in database
+{
+    "exists": true,
+    "data": {
+        "AADHAR NO": "",
+        "ADDRESS1": "S/O LT.KARU \"",
+        "NAME": "\"RUKHI SINGH",
+        "MOBILE NO": "",
+        "LOAD": "DS-1 (B) ",
+        "CIRCLE": "Giridih",
+        "ADDRESS4": "",
+        "isApprovedBySupervisor": "",
+        "createdOn": "",
+        "DIVISION": "Giridih South",
+        "TARIFF": "",
+        "METER NUMBER": "Unmetered ",
+        "CONSUMER TYPE": "Other ",
+        "SUB DIVISION": "Giridih(R) ",
+        "ADDRESS2": "BANDGARI",
+        "METER MAKE": "",
+        "isRejectedBySupervisor": "",
+        "METER STATUS": "1",
+        "ADDRESS3": "CHARGHARA ",
+        "CONSUMER NO": "BGR0012 "
+    }
+}
+ BGR0001  already exists in database
+{
+    "exists": true,
+    "data": {
+        "isRejectedBySupervisor": "",
+        "ADDRESS2": "BANDGARI",
+        "isApprovedBySupervisor": "",
+        "ADDRESS1": "S/O PAYARI SINGH \"",
+        "AADHAR NO": "",
+        "CONSUMER NO": "BGR0001 ",
+        "METER STATUS": "1",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS4": "",
+        "METER MAKE": "",
+        "DIVISION": "Giridih South",
+        "TARIFF": "",
+        "CIRCLE": "Giridih",
+        "createdOn": "",
+        "NAME": "\"BUDHAN SINGH",
+        "LOAD": "DS-1 (B) ",
+        "SUB DIVISION": "Giridih(R) ",
+        "MOBILE NO": "",
+        "ADDRESS3": "CHARGHARA ",
+        "METER NUMBER": "Unmetered "
+    }
+}
+ MAD0004  already exists in database
+{
+    "exists": true,
+    "data": {
+        "METER NUMBER": "",
+        "MOBILE NO": "",
+        "isRejectedBySupervisor": "",
+        "NAME": "HARIL PD.YADAV S/O UMED ",
+        "ADDRESS3": "",
+        "CONSUMER NO": "MAD0004 ",
+        "ADDRESS4": "",
+        "LOAD": "1",
+        "TARIFF": "DS-1 (B) ",
+        "createdOn": "",
+        "AADHAR NO": "",
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih",
+        "ADDRESS2": "AT.MADHWADIH ",
+        "ADDRESS1": "YADAV",
+        "CONSUMER TYPE": "Other ",
+        "METER MAKE": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "isApprovedBySupervisor": "",
+        "METER STATUS": "Unmetered "
+    }
+}
+ MAD0005  already exists in database
+{
+    "exists": true,
+    "data": {
+        "ADDRESS3": "",
+        "LOAD": "1",
+        "createdOn": "",
+        "SUB DIVISION": "Giridih(R) ",
+        "isApprovedBySupervisor": "",
+        "TARIFF": "DS-1 (B) ",
+        "ADDRESS1": "R.C.SAWARNKAR",
+        "CONSUMER TYPE": "Other ",
+        "ADDRESS2": "AT.MADHWADIH ",
+        "MOBILE NO": "",
+        "AADHAR NO": "",
+        "DIVISION": "Giridih South",
+        "CIRCLE": "Giridih",
+        "METER STATUS": "Unmetered ",
+        "CONSUMER NO": "MAD0005 ",
+        "ADDRESS4": "",
+        "METER MAKE": "",
+        "isRejectedBySupervisor": "",
+        "METER NUMBER": "",
+        "NAME": "BHIM LAL SAWARNKAR S/O LT "
+    }
+}

@@ -1,0 +1,152 @@
+# serverless.yml
+
+service: bnt-users-management
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  lambdaHashingVersion: 20201221
+  stage: ${opt:stage, 'dev'}
+  region: us-east-1
+  logRetentionInDays: 14
+  arnHostNumber: 920871934450
+  deploymentBucket: bidwiser-lambda-layers
+  memorySize: 1024
+  timeout: 19
+  apiName: budwiserdev
+  environment:
+    stage: ${opt:stage, 'dev'}
+    region: us-east-1
+    arnHostNumber: 920871934450
+    #reportDBName: reports
+    consumerDBName: consumers
+    subDivisionDBName: sub_divisions
+    divisionDBName: divisions
+    reportDBName: reports
+    userDBName: users
+    userAuthDBName: user_auth
+    userSessionDBName: user_sessions
+    defaultPassword: User@123
+    notificationDBName: notifications
+    #dbURL: postgresql://bentek:Q4BLF1znoIh1f3RM8P842g@free-tier12.aws-ap-south-1.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full&options=--cluster%3Dbentek-dev-636
+  
+  apiGateway:
+    restApiId:
+      'Fn::ImportValue': ${self:custom.${self:provider.stage}.Stack}-restApiId-${self:provider.stage}
+    restApiRootResourceId:
+      'Fn::ImportValue': ${self:custom.${self:provider.stage}.Stack}-rootResourceId-${self:provider.stage}
+
+
+  iam:
+    role:
+      statements:
+        - Effect: 'Allow'
+          Action:
+            - 'lambda:InvokeFunction'
+            - 'lambda:AddPermission'
+          Resource: "arn:aws:lambda:*:*:*"
+
+        - Effect: 'Allow'
+          Action:
+            - 'events:PutRule'
+            - 'events:PutTargets'
+          Resource: "arn:aws:events:*:*:*"
+
+ 
+functions:
+
+  fetchAllUsersDivisionWise:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/list-all-by-division
+          method: get
+          cors: true
+  fetchUsers:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/list/{type}/{parentId}
+          method: get
+          cors: true
+  
+  fetchUserDetails:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/{user_id}
+          method: get
+          cors: true
+
+  createUser:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/
+          method: post
+          cors: true
+
+  updateUser:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/{user_id}
+          method: patch
+          cors: true
+  
+  updateUserPassword:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/update-password/{user_id}
+          method: patch
+          cors: true
+
+  updateNotification:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/notification/{id}
+          method: patch
+          cors: true
+
+  deleteUser:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/{user_id}
+          method: delete
+          cors: true
+  
+  fetchNotifications:
+    handler: src/index.handler
+    events:
+      - http:
+          path: /users/notifications/{target_user}/{target_user_id}
+          method: get
+          cors: true
+plugins:
+  - serverless-pseudo-parameters
+  - serverless-dotenv-plugin
+  - serverless-plugin-reducer
+  - serverless-layers
+  - serverless-offline
+  #- serverless-openapi #serverless openapi generate -o ../apidoc/specs/auctions-openapi.yml
+
+custom:
+  prod:
+    Stack: bwTestAPI
+    LogLevel: info
+    
+  dev:
+    Stack: bwTestAPI
+    LogLevel: debug
+   
+  dotenv:
+    path: ../.env.${self:provider.stage}
+  serverless-layers:
+    # applies for all lambdas 
+    # layersDeploymentBucket: bw-auction-layer #${self:provider.stage}-bw-auctions-layer
+    dependenciesPath: ./package.json
+  
+  

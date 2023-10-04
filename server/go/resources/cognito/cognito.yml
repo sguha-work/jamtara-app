@@ -1,0 +1,102 @@
+Resources:
+    # create a user pool as normal
+  CognitoUserPool:
+    Type: "AWS::Cognito::UserPool"
+    Properties:
+      MfaConfiguration: OFF
+      UserPoolName: ${self:provider.stage}-user-pool
+      UsernameAttributes:
+        - email
+        # - phone_number #enable before final deployment
+      Schema:
+        - Name: dealerId
+          Required: false
+          Mutable: true
+          AttributeDataType: String
+          StringAttributeConstraints:
+            MinLength: 6
+            MaxLength: 256
+
+      Policies:
+        PasswordPolicy:
+          MinimumLength: 6
+          RequireLowercase: False
+          RequireNumbers: True
+          RequireSymbols: False
+          RequireUppercase: True
+  
+  CognitoUserPoolClient:
+    Type: "AWS::Cognito::UserPoolClient"
+    Properties:
+      ClientName: ${self:provider.stage}-user-pool-client
+      GenerateSecret: False
+      # AllowedOAuthFlows: 
+      #   - implicit
+      # AllowedOAuthFlowsUserPoolClient: true
+      #AllowedOAuthScopes:
+        #- email
+        #- aws.cognito.signin.user.admin
+      # LogoutURLs:
+      #   - http://localhost:3000/logout
+      # CallbackUrls:
+      #   - localhost:3000
+      AccessTokenValidity: 5
+      IdTokenValidity: 5
+      SupportedIdentityProviders:
+        - COGNITO
+      ExplicitAuthFlows: 
+        - ALLOW_ADMIN_USER_PASSWORD_AUTH
+        - ALLOW_USER_PASSWORD_AUTH
+        - ALLOW_REFRESH_TOKEN_AUTH
+      UserPoolId:
+        Ref: CognitoUserPool
+
+  CognitoUserPoolGroup:
+    Type: "AWS::Cognito::UserPoolGroup"
+    Properties:
+      GroupName: bwuser
+      Precedence: 2
+      Description: This Group is for Regular buyer/seller in Bidwiser.
+      UserPoolId:
+        Ref: CognitoUserPool
+
+  CognitoDealerPoolGroup:
+    Type: "AWS::Cognito::UserPoolGroup"
+    Properties:
+      GroupName: bwdealer
+      Precedence: 3
+      Description: This Group is for Dealers in Bidwiser.
+      UserPoolId:
+        Ref: CognitoUserPool
+
+  CognitoAuthRepPoolGroup:
+    Type: "AWS::Cognito::UserPoolGroup"
+    Properties:
+      GroupName: bwAuthorizedRepresentative
+      Precedence: 4
+      Description: This group is for Authorized Representatives added by dealers
+      UserPoolId:
+        Ref: CognitoUserPool
+
+  # serviceUserPoolDomain:
+  #   Type: AWS::Cognito::UserPoolDomain 
+  #   Properties:
+  #     UserPoolId: 
+  #       Ref: CognitoUserPool
+  #     Domain: service-user-pool-domain-${opt:stage, self:provider.stage}-${self:provider.environment.DOMAIN_SUFFIX}
+
+  # then add an authorizer you can reference later
+  ApiGatewayAuthorizer:
+    DependsOn:
+    # this is pre-defined by serverless
+    - ApiGatewayRestApi
+    Type: AWS::ApiGateway::Authorizer
+    Properties:
+      Name: cognito-authorizer
+      # apparently ApiGatewayRestApi is a global string
+      RestApiId: { "Ref" : "ApiGatewayRestApi" }
+      IdentitySource: method.request.header.Authorization
+      Type: COGNITO_USER_POOLS
+      ProviderARNs:
+      - Fn::GetAtt: [CognitoUserPool, Arn]
+    

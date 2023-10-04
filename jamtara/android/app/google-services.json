@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281895482747",
+    "project_id": "bentec-meterlagao",
+    "storage_bucket": "bentec-meterlagao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281895482747:android:3c35e7042fa8d418cab9de",
+        "android_client_info": {
+          "package_name": "com.bentec.meterlagao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281895482747-9c4q7h97dmla318isu3q1e0vk3d1kadg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPV7FeyDwTdvs6vZH_rK6g8oCzkaU3nTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281895482747-9c4q7h97dmla318isu3q1e0vk3d1kadg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bentec-meterlagao",
+  "private_key_id": "cc2cb6033b23b0cc352d9417f461c8beb5c8885a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCW1s17FByAS1h9\nNPI2lkpmV9P3wobpqS13eiGH9gnhtDWCRHTL8NExtt61iFaHy21AA6rp1Y5/CEDG\nSaWy1xvjs5bg870cUZuro5yDfTMZXWbLxg+yCVi1jtKKCqiC866NJIscVKbvHjU0\nh9BFqlGrWcfxbHbsTG9Kkdk6LxYtHdfOy3vwJpLzs9W9SFptoLYoDF6BPN/J+KhJ\nCSsDiSARjyQ2BfUCvs/+xVnOjUy05Oz1KyRHnFzjjW18uXBvdYnIVOOK1Kcnf5Jz\nPSwSISQnEEAy1v2eCvK0ndfL9h9hJpP750S7d+baRvLBA3ViUHylmhH/dRJig6+q\nP6Mqf3h5AgMBAAECggEAPXrf1cKku0X6k035S3aGbKBvrRSEmMhz17bX4+rMrEof\nZTExyc4l9fVrYOJpIoAvz1+vUg/RPMXIYQmzl+lFXNHeNWIjOl+o65SMPqvRIA2J\n0JSx4QceOSI1fj5J4NYh1zWF3c5DHENbvEV/BmYdU5IMhMKI1ldxJRu9RpHaoBhh\nQVzX8uD8NeX3v9434vyyONshLWB2cLHwibWXPJTChI0ukg7gPdc69fhqPBBuacG6\nA+7WNSJ8mN/INw2rYr0QSdt1c0k/kB4UTBVbw105cuqxgip4OgmeWLVqOWnPtzUK\nZXp2ifvY1+nq/NgtXHjwPPSKvxu2xsAbXCQ6j5TCYQKBgQDSt6lC8h7XCGlLvigG\nbM+QCDPnAl6Vn+qVcjNqiC3y7oB00EKPBdoL1uJnYH4dAC9UwIPzBJynrVoPoQ8w\nOcFIzItGX5wtBr1xGTiCQqELX6FwfIo2c+VBxmWpnQPL4ZC3wGnY1DPB7JOZmxy9\nyMhiqhGC7whh7UkQg1otapNmSwKBgQC3QQN3LI9LdJXtiNgvMLENE64zyporo37/\nBgE26mmFrYaRCyoJeqMNepSqUUhbsXzmRx9QMrz9GHzORFbjNKBeDTt5myu4++ce\nkh/h7QI8Wjcu90cU3U55yGKglfOyBbYzEzEYwDftOvUGvXJjXzPL4Fi4Rwcy7RMK\nN/9jAXsxywKBgBWeils4BDoDvunqhKjEGTep38lf0NyBH8xdfzD679vw5HUXuPx7\nmTeFwIzitY28Kx8C8YbJflklzAu2dpx4EICrm86ImLl165HjCI000Nkd4q5r2LJl\niawJ8vxIA8+zQOnZcAKzIuxOnYYxB+3g385frJRGehGyCsEK+QGX4a+pAoGAZCxs\n6Yt5NWUgw/0nN/yk/CIC+xrIVgyE0oGEznErh8CIq+bvbskUMr0MYWIXbNBEF1lP\nm7ZwquXk65hd6suM0nznQx14tCE3gPWd6hF2RGmIeur/dz9Ws6m/iEsQMQOASsE1\n+HKy38J3yNxsmDelh9A2j118aPFBlDdyKrvXjSsCgYBd4F4qxlD46ZpLMA/+nsWN\nHPAyzHfTwxyomTZTj/MJd7EcDOzcPOzO1cn55464erWkysQox0iirxaoyjtGib56\ndl3Mt21LYtmFTIf/O2wz5aQ7okwY2F0fE4S6L855lF+594O6n5euRFkU415lSUQZ\nLAbaPA/zUuRjkcSVrooscg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5e5wr@bentec-meterlagao.iam.gserviceaccount.com",
+  "client_id": "111095900863386721731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5e5wr%40bentec-meterlagao.iam.gserviceaccount.com"
+}

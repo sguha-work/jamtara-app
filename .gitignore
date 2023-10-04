@@ -1,0 +1,73 @@
+/bin
+.DS_Store
+.webpack/*
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+node_modules/
+
+.serverless
+.serverless/
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+npm-debug*
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+/nbproject
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+/test/screenshots/*.png
+/test/*.html
+
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# nodered
+*.backup
+server/node-red/node_modules
+/nbproject/private/
+
+# Html
+*.orig
+*.log
+/.vscode
+package-lock.json
+/package-lock.json
+package-lock.json
+mocha_report.html
+
+.gitconfig
+server/test/.webpack
+
+**/bin/*
+**/consumer_csv/*

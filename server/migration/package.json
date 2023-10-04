@@ -1,0 +1,21 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "16.0.1"
+  },
+  "dependencies": {
+    "csvtojson": "2.0.10",
+    "knex": "2.1.0",
+    "knex-schema-inspector": "2.0.1",
+    "pg": "8.7.3"
+  }
+}
